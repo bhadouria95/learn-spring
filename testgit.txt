@@ -1,0 +1,1 @@
+first file to check if git working and configured correctly.
